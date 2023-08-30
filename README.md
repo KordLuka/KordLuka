@@ -1,10 +1,5 @@
-<h3> :man: &nbsp;Hi </h3>
-
-<br/>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
   [![Angular][angular.io]][angular-url]
   [![Nx][nx.dev]][nx-url]
   [![Typescript][typescript.io]][typescript-url]
@@ -15,15 +10,13 @@
 
 <br/>
 
-<p>
-
 ## 📝 Recent Projects
 ### [NEXT/REACT][ Airbnb clone: ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
 Lorem
 
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3> 📧 &nbsp;Connect with Me </h3> 
 
 <p align="center">
 <br>
@@ -33,13 +26,6 @@ Lorem
 
 <br/> 
 <p>
-
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
