@@ -19,18 +19,16 @@
 
 ## 📝 Recent Projects
 ### [NEXT/REACT][ Airbnb clone <a href="https://react-rent-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
- 👀
 </br>
-<p align="center">
-![image](https://github.com/KordLuka/KordLuka/assets/142796059/80de9353-db82-4156-bbd3-bfaebb6fa929)
-</p>
+
+![image](https://github.com/KordLuka/KordLuka/assets/142796059/27ee6c55-a4ab-4776-91de-c411c3f79c78)
+
 </br>
 This project doesn't showcase my skills
 </br>
 it's based on a video authored by <a href="https://github.com/AntonioErdeljac">Antonio Erdeljac</a> (respect 🔥 and thanks 👏👏). 
 </br>
 After five years of working with Angular, I've decided that I want to take my first steps into React and Next.js using quality learning materials. After watching Antonio's tutorials, I'm confident that I've found such materials all in one place.
-</p>
 
 <h3> 📧 &nbsp;Connect with Me </h3> 
 
@@ -41,7 +39,6 @@ After five years of working with Angular, I've decided that I want to take my fi
 </p>
 
 <br/> 
-<p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [antonio-url]: https://github.com/AntonioErdeljac
