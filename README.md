@@ -12,6 +12,7 @@
 
 ## 📝 Recent Projects
 ### [NEXT/REACT][ Airbnb clone: ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
+👀 <a href="https://react-rent-clone.vercel.app/"> live </a>
 Lorem
 
 </p>
