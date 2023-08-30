@@ -10,9 +10,17 @@
 
 <br/>
 
+<h3> 🥳 &nbsp;I'm about to learn</h3>
+
+  [![React][react]][react-url]
+  [![Next][next]][next-url]
+
+<br/>
+
 ## 📝 Recent Projects
 ### [NEXT/REACT][ Airbnb clone: ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
 👀 <a href="https://react-rent-clone.vercel.app/"> live </a>
+</br>
 Lorem
 
 </p>
@@ -29,7 +37,10 @@ Lorem
 <p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
+[react]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[react-url]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://github.com/angular
 [nx.dev]: https://img.shields.io/badge/nx_workspace-002E52?style=for-the-badge&logo=nx&logoColor=white
