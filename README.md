@@ -24,13 +24,6 @@ After five years of working with Angular, I've decided that I want to take my fi
 ```
 
 ## 📝 Recent Projects
-### [NEXT/REACT][ Airbnb clone <a href="https://react-rent-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
-</br>
-
-![image](https://github.com/KordLuka/KordLuka/assets/142796059/27ee6c55-a4ab-4776-91de-c411c3f79c78)
-
-</br>
-
 ### [NEXT/REACT/PUSHER][ Messenger clone <a href="https://react-messages-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))
 </br>
 
@@ -44,7 +37,12 @@ PASSWORD: test
 
 <br/>
 
+### [NEXT/REACT][ Airbnb clone <a href="https://react-rent-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
+</br>
 
+![image](https://github.com/KordLuka/KordLuka/assets/142796059/27ee6c55-a4ab-4776-91de-c411c3f79c78)
+
+</br>
 
 <h3> 📧 &nbsp;Connect with Me </h3> 
 
