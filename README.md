@@ -17,6 +17,12 @@
 
 <br/>
 
+```
+This project doesn't showcase my skills
+it's based on a video authored by <a href="https://github.com/AntonioErdeljac">Antonio Erdeljac</a> (respect 🔥 and thanks 👏👏). 
+After five years of working with Angular, I've decided that I want to take my first steps into React and Next.js using quality learning materials. After watching Antonio's tutorials, I'm confident that I've found such materials all in one place.
+```
+
 ## 📝 Recent Projects
 ### [NEXT/REACT][ Airbnb clone <a href="https://react-rent-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))<br>
 </br>
@@ -24,11 +30,21 @@
 ![image](https://github.com/KordLuka/KordLuka/assets/142796059/27ee6c55-a4ab-4776-91de-c411c3f79c78)
 
 </br>
-This project doesn't showcase my skills
+
+### [NEXT/REACT/PUSHER][ Messenger clone <a href="https://react-messages-clone.vercel.app/"> live </a> ]([https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/KordLuka/react-airbnb-clone))
 </br>
-it's based on a video authored by <a href="https://github.com/AntonioErdeljac">Antonio Erdeljac</a> (respect 🔥 and thanks 👏👏). 
-</br>
-After five years of working with Angular, I've decided that I want to take my first steps into React and Next.js using quality learning materials. After watching Antonio's tutorials, I'm confident that I've found such materials all in one place.
+
+```
+You can use the existing credentials:
+EMAIL: killua@killua.pl
+PASSWORD: test
+```
+
+![image](https://github.com/KordLuka/react-messenger-clone/assets/142796059/56b1925f-059e-4e2c-bdf8-2287ef36e61f)
+
+<br/>
+
+
 
 <h3> 📧 &nbsp;Connect with Me </h3> 
 
