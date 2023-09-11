@@ -18,8 +18,7 @@
 <br/>
 
 ```
-This project doesn't showcase my skills
-it's based on a video authored by <a href="https://github.com/AntonioErdeljac">Antonio Erdeljac</a> (respect 🔥 and thanks 👏👏). 
+based on a video authored by <a href="https://github.com/AntonioErdeljac">Antonio Erdeljac</a> 🔥. 
 After five years of working with Angular, I've decided that I want to take my first steps into React and Next.js using quality learning materials. After watching Antonio's tutorials, I'm confident that I've found such materials all in one place.
 ```
 
